@@ -1,7 +1,6 @@
-# README.md
-@ArafatTraders
 
 # 👋 Hi, I'm Md Yeashin Arafat!
+# @ArafatTraders
 
 ## 🚀 About Me
 - 🎓 Master’s in **Business Analytics & Big Data Systems**.
