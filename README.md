@@ -8,15 +8,12 @@
 - 🏗️ Business Knowledge in **Hardware Industry, Maritime Industry & Agricultural Ventures**.
 - 📈 Passionate about **Business Intelligence, Business Analytics, Visual Analytics**.
 
-### 🔍 Business Intelligence & Data Analytics
-- **BI Tools:** Power BI, Tableau, Google Data Studio
-- **ETL & Data Wrangling:** SQL, Excel, Pandas
-- **Data Visualization:** Matplotlib, Seaborn, DAX (Power BI)
+### 🔍 Business Intelligence & Analytics Tools
+- **BI Tools:** Power BI, Tableau
 - **Languages:** Python, SQL
   
 ### 📊 Accounting & Finance Analytics
-- **Tools:** Excel (VBA, Pivot Tables), QuickBooks, Xero, Tally, SAP
-- **Financial Modeling:** Forecasting, Pricing Analysis, KPI Dashboards
+- **Tools:** Excel, QuickBooks, Xero, Tally
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/md-yeashin-arafat-976241130/)
