@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🎓 Master’s in **Business Analytics & Big Data Systems**.
 - 📊 3 years experience in **Accounting & Finance** in the **Maritime Industry**.
-- 🏗️ Business Knowledge in **Hardware Industry, Maritime Industry & Agricultural Ventures**.
+- 🏗️ Business Knowledge in **Hardware & Household Industry, Maritime Industry & Agricultural Ventures**.
 - 📈 Passionate about **Business Intelligence, Business Analytics, Visual Analytics**.
 
 ### 🔍 Business Intelligence & Analytics Tools
